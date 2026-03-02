@@ -4,4 +4,4 @@ document.getElementById("btnContato").addEventListener("click", function () {
 });
 
 // extra simples só pra atualizar o ano (não precisa clicar)
-document.getElementById("year").textContent = new Date().getFullYear();
+document.getElementById("ano").textContent = new Date().getFullYear();
